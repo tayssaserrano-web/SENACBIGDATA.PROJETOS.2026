@@ -6,4 +6,4 @@ Passo a passo para realizar:
 > cd (a pasta que quer pegar dentro dessa pasta maior)
 > git add . 
 > git commit -m "(o nome que quer dar para essa "movimentação")"
-
+> git push / enter (se aparecer 'Everything up-to-date' é porque foi tudo enviado. Dar f5 no github para refresh) 
