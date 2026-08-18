@@ -1,3 +1,9 @@
 Versionamento 
-
+Passo a passo para realizar: 
+-- git {add. commit. push}-- 
+> git branch / enter 
+> cd (nome da pasta que quer versionar em massa)
+> cd (a pasta que quer pegar dentro dessa pasta maior)
+> git add . 
+> git commit -m "(o nome que quer dar para essa "movimentação")"
 
